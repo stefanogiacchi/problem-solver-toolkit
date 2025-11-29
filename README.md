@@ -67,6 +67,7 @@ Reusable behaviors for CQRS/Mediator pipelines:
 ---
 
 # 📦 Folder Structure
+```txt
 problem-solver-toolkit/
 │
 ├── src/
@@ -84,7 +85,7 @@ problem-solver-toolkit/
 │ ├── ProblemSolverToolkit.Tests/
 │
 └── README.md
-
+```
 
 ---
 
